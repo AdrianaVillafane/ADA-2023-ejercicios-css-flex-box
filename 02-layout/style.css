@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.encabezado{
+    background-color: rosybrown;
+    text-align: center;
+    padding: 25px;
+}
+.barra{
+    background-color: rgb(172, 91, 248);
+    text-align: center;
+    padding: 15px;
+}
+.cuerpo{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 220px;
+}
+.pie{
+    background-color: rosybrown;
+    text-align: center;
+    padding: 10px;
+}

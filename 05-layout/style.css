@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+}
+
+
+.left{
+    background-color: blueviolet;
+    width: 80vh;
+    height: 500px;
+  display: inline-block;
+   
+}
+.contenedor{
+   
+}
+.encabezado{
+    background-color: blue;
+    width: 800px;
+    display: flex;
+   
+}
+.cuerpo{
+    background-color: rgb(240, 142, 13);
+    width: 800px;
+
+    
+}
+.pie{
+    background-color: rgb(147, 218, 32);
+}

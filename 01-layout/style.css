@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.encabezado {
+  background-color: rgb(169, 90, 243);
+  padding: 20px 100px;
+  text-align: center;
+}
+
+
+.cuerpo {
+  background-color: antiquewhite;
+  text-align: center;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+}
+.pie{
+    background-color: blueviolet;
+    padding: 20px;
+    text-align: center;
+}
