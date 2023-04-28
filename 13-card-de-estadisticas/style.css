@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: brown;
+}
+.contenedor{
+    width: 700px;
+    height: 300px;
+    border: 2px solid black;
+    margin: 100px auto;
+    border-radius: 10px;
+    background-color: #980D7A;
+    color: antiquewhite;
+    line-height: 2;
+    font-weight: bold;
+    box-shadow: 10px 10px 5px 0px rgba(249, 248, 248, 0.993);
+    text-align: center;
+    padding: 20px;
+}
+.contenedor2{
+    background-color:  #980D7A ;
+    display: flex;
+    margin: 20px;
+}
+.box{
+   
+    text-align: center;
+    margin:10px 20px;
+}
+.azul{
+    color:blue;
+}
+.diferente{
+    font-size: 0.8em;
+}
