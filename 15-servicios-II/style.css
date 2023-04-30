@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.contenedor {
+  text-align: center;
+  margin: 50px auto;
+}
+.bigBox {
+  width: 1200px;
+  height: 500px;
+   display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.box-1 {
+  margin: 20px 30px;
+  width: 45%;
+  text-align: start;
+}
+.box-2 {
+  margin: 20px 30px;
+  width: 45%;
+  text-align: start;
+}
+p{
+    padding: 15px;
+}
+i{
+    background-color: rgb(255, 0, 242);
+    border-radius: 5px;
+    padding: 8px;
+}
+h1{
+    font-size: 2em;
+}
